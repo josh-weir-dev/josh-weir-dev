@@ -7,6 +7,7 @@ Aspiring game developer with an interest in Software Engineering, Backend System
 
 ## Contact
 LinkedIn: www.linkedin.com/in/josh-weir-dev
+Email: Joshweir06@hotmail.com
 
 <!--
 **josh-weir-dev/josh-weir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
