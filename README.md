@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Josh 👋
+
+2nd Year CS Student at Royal Holloway
+Aspiring game developer with an interest in Software Engineering, Backend Systems & Game Development
+
+## Projects
+
+## Contact
+LinkedIn: www.linkedin.com/in/josh-weir-dev
 
 <!--
 **josh-weir-dev/josh-weir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
