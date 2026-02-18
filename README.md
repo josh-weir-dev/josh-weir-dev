@@ -6,7 +6,7 @@ Aspiring game developer with an interest in Software Engineering, Backend System
 ## Projects
 
 ## Contact
-LinkedIn: www.linkedin.com/in/josh-weir-dev
+LinkedIn: www.linkedin.com/in/josh-weir-dev<br/>
 Email: Joshweir06@hotmail.com
 
 <!--
